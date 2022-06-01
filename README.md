@@ -40,7 +40,7 @@ If you are using the method of (4-3-1-2) to choose plotting indices, be sure to 
 %=============================
 % References
 %=============================
-[1] L. Bury, J. McMahon, and M. Lo, “A Study of Periodic Orbits near Europa,” In Progress, 2021.
+[1] L. Bury, J. McMahon, and M. Lo, “A Study of Periodic Orbits near Europa,” Celestial Mechanics and Dynamical Astronomy, 134(3), 2022.
 [2] The Math Works Inc., “MATLAB R2021a”
 [3] R. Broucke. Stability of Periodic Orbits in the Elliptic, Restricted Three-Body Prob- lem. AIAA Journal, 7(6):1003–1009, 1969.
 
